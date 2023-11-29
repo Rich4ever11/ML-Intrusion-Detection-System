@@ -1,2 +1,2 @@
 # ML-Intrusion-Detection-System
-Utilizes various machine learning models on the CICIDS2017
+Various machine learning models trained on the CICIDS2017
